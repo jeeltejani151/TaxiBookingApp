@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "797717660344",
+    "firebase_url": "https://book-my-cab-13238-default-rtdb.firebaseio.com",
+    "project_id": "book-my-cab-13238",
+    "storage_bucket": "book-my-cab-13238.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797717660344:android:f72d45b7e7000c84d62a4d",
+        "android_client_info": {
+          "package_name": "com.example.bookmycab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797717660344-7pt5i5hc1tdtb9m5buct1321e3r2noo3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookmycab",
+            "certificate_hash": "26ca5ee51bbe0418e6ccb9505f41ccb2d7ff3eeb"
+          }
+        },
+        {
+          "client_id": "797717660344-43qskimspl6e6kd7i7bk5nrl73aacdld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRRJjbZbLkWf_jIHMGfu3-3G4hSmMPKrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797717660344-43qskimspl6e6kd7i7bk5nrl73aacdld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
